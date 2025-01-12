@@ -94,8 +94,8 @@ Blogging frameworks and platforms
 - [Nextra](https://nextra.site/)
   - [Mermaid](https://nextra.site/docs/guide/mermaid)
 - [WordPress](https://wordpress.org)
+  - [MerPress](https://wordpress.org/plugins/merpress)
   - [WordPress Markdown Editor](https://wordpress.org/plugins/wp-githuber-md)
-  - [WP-ReliableMD](https://wordpress.org/plugins/wp-reliablemd/)
 
 ### CMS/ECM
 
